@@ -1,0 +1,4 @@
+baseURL = 'https://hero-party.co.uk/'
+languageCode = 'en-us'
+title = 'HeroParty'
+theme = 'PaperMod'

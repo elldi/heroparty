@@ -1,1 +1,1 @@
-# heroparty
+# HeroParty
